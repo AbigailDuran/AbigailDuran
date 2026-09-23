@@ -19,11 +19,7 @@ Computer Engineering student at the University of Houston–Clear Lake, graduati
 
 Collaborating with a team of Computer Engineering students to develop a self-driving RC car using a Raspberry Pi Compute Module 5. The project integrates computer vision, machine learning, sensor communication, and custom PCB design to enable autonomous navigation and traffic sign recognition.
 
-**My Contributions:**
-- Schematic development and PCB design
-- Hardware integration and component testing
-- Camera and LCD interfacing
-- Embedded systems development
+
 
 
 ### [Digital Desk Clock](https://github.com/AbigailDuran/digital-desk-clock-arduino)
@@ -32,11 +28,6 @@ Collaborating with a team of Computer Engineering students to develop a self-dri
 
 Designed and developed a digital desk clock using an Arduino Uno, integrating an LCD display, real-time clock module, and button-controlled menu for time adjustments and reminders. Developed and tested a breadboard prototype before designing a custom PCB in KiCad.
 
-**Key Features & Contributions:**
-- Arduino programming
-- LCD interfacing and button-controlled menu system
-- Schematic development and custom PCB design in KiCad
-- Hardware prototyping and circuit testing
 
 
 ### Predictive Maintenance Using Machine Learning
