@@ -9,18 +9,35 @@ Computer Engineering student at the University of Houston–Clear Lake, graduati
 
 **Hardware & Electronics:** PCB Design, Schematic Development, Circuit Analysis, Raspberry Pi, Microcontrollers
 
-**Development Tools:** Git, GitHub, VS Code
+**Development Tools:** KiCad, VS Code, MATLAB, TinkerCAD
 
 ## Featured Projects
 
-### Autonomous RC Car
+### [Self-Driving RC Car](https://github.com/EthanWellsSr/Self-Driving-RC-Car)
 
-Developing an autonomous vehicle using a Raspberry Pi Compute Module 5, integrating computer vision, sensor communication, and custom PCB design.
+**Senior Capstone Project | University of Houston–Clear Lake**
 
-- Computer vision for traffic sign recognition
-- Camera and sensor integration
-- Custom PCB design and hardware prototyping
-- Embedded software development
+Collaborating with a team of Computer Engineering students to develop a self-driving RC car using a Raspberry Pi Compute Module 5. The project integrates computer vision, machine learning, sensor communication, and custom PCB design to enable autonomous navigation and traffic sign recognition.
+
+**My Contributions:**
+- Schematic development and PCB design
+- Hardware integration and component testing
+- Camera and LCD interfacing
+- Embedded systems development
+
+
+### [Digital Desk Clock](https://github.com/AbigailDuran/digital-desk-clock-arduino)
+
+**Arduino-Based Embedded Systems & PCB Design Project**
+
+Designed and developed a digital desk clock using an Arduino Uno, integrating an LCD display, real-time clock module, and button-controlled menu for time adjustments and reminders. Developed and tested a breadboard prototype before designing a custom PCB in KiCad.
+
+**Key Features & Contributions:**
+- Arduino programming and I2C communication
+- LCD interfacing and button-controlled menu system
+- Schematic development and custom PCB design in KiCad
+- Hardware prototyping and circuit testing
+
 
 ### Predictive Maintenance Using Machine Learning
 
