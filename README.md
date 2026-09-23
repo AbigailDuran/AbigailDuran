@@ -5,7 +5,7 @@ Computer Engineering student at the University of Houston–Clear Lake, graduati
 
 ## Technical Skills
 
-**Programming:** C, C++, Python, MATLAB, ARM Assembly, VHDL
+**Programming:** C, C++, Python, MATLAB, ARM, VHDL
 
 **Hardware & Electronics:** PCB Design, Schematic Development, Circuit Analysis, Raspberry Pi, Microcontrollers
 
@@ -33,7 +33,7 @@ Collaborating with a team of Computer Engineering students to develop a self-dri
 Designed and developed a digital desk clock using an Arduino Uno, integrating an LCD display, real-time clock module, and button-controlled menu for time adjustments and reminders. Developed and tested a breadboard prototype before designing a custom PCB in KiCad.
 
 **Key Features & Contributions:**
-- Arduino programming and I2C communication
+- Arduino programming
 - LCD interfacing and button-controlled menu system
 - Schematic development and custom PCB design in KiCad
 - Hardware prototyping and circuit testing
