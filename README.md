@@ -22,6 +22,18 @@ Collaborating with a team of Computer Engineering students to develop a self-dri
 
 
 
+### Predictive Maintenance Using Machine Learning
+
+**Machine Learning Project | University of Houston-Clear Lake**
+
+Developing a machine learning project focused on analyzing equipment data and identifying potential failures using predictive modeling techniques.
+
+- Equipment performance data analysis
+- Machine learning model development
+- Predictive maintenance and failure detection
+
+
+
 ### [Digital Desk Clock](https://github.com/AbigailDuran/digital-desk-clock-arduino)
 
 **Arduino-Based Embedded Systems & PCB Design Project**
@@ -29,14 +41,6 @@ Collaborating with a team of Computer Engineering students to develop a self-dri
 Designed and developed a digital desk clock using an Arduino Uno, integrating an LCD display, real-time clock module, and button-controlled menu for time adjustments and reminders. Developed and tested a breadboard prototype before designing a custom PCB in KiCad.
 
 
-
-### Predictive Maintenance Using Machine Learning
-
-Developing a machine learning project focused on analyzing equipment data and identifying potential failures using predictive modeling techniques.
-
-- Equipment performance data analysis
-- Machine learning model development
-- Predictive maintenance and failure detection
 
 ## Education
 
