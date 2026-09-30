@@ -22,7 +22,7 @@ Collaborating with a team of Computer Engineering students to develop a self-dri
 
 
 
-### Predictive Maintenance Using Machine Learning
+### [Predictive Maintenance Using Machine Learning](https://github.com/AbigailDuran/Predictive-Maintenance-ML)
 
 **Machine Learning Project | University of Houston-Clear Lake**
 
