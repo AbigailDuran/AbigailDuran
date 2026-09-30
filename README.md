@@ -28,9 +28,6 @@ Collaborating with a team of Computer Engineering students to develop a self-dri
 
 Developing a machine learning project focused on analyzing equipment data and identifying potential failures using predictive modeling techniques.
 
-- Equipment performance data analysis
-- Machine learning model development
-- Predictive maintenance and failure detection
 
 
 
