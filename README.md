@@ -37,6 +37,11 @@ Developing a machine learning project focused on analyzing equipment data and id
 
 Designed and developed a digital desk clock using an Arduino Uno, integrating an LCD display, real-time clock module, and button-controlled menu for time adjustments and reminders. Developed and tested a breadboard prototype before designing a custom PCB in KiCad.
 
+### [Biometric Scanner](https://github.com/EthanWellsSr/Biometric-Scanner)
+
+**Arduino-Based Biometric Security System | University of Houston-Clear Lake**
+
+Contributed to a team project that developed a fingerprint-activated locking box using Arduino for a UHCL engineering design course.
 
 
 ## Education
