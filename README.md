@@ -13,7 +13,7 @@ Computer Engineering student at the University of Houston–Clear Lake, graduati
 
 ## Featured Projects
 
-### [Self-Driving RC Car](https://github.com/EthanWellsSr/Self-Driving-RC-Car)
+### [BuggyBot](https://github.com/EthanWellsSr/BuggyBot)
 
 **Senior Capstone Project | University of Houston–Clear Lake**
 
